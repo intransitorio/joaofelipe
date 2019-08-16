@@ -1,14 +1,14 @@
 {
-  "main.css": "/joaofelipe/static/css/main.a35e5fc0.chunk.css",
-  "main.js": "/joaofelipe/static/js/main.a048050e.chunk.js",
-  "main.js.map": "/joaofelipe/static/js/main.a048050e.chunk.js.map",
-  "runtime~main.js": "/joaofelipe/static/js/runtime~main.07091ec7.js",
-  "runtime~main.js.map": "/joaofelipe/static/js/runtime~main.07091ec7.js.map",
-  "static/js/2.a539ea9d.chunk.js": "/joaofelipe/static/js/2.a539ea9d.chunk.js",
-  "static/js/2.a539ea9d.chunk.js.map": "/joaofelipe/static/js/2.a539ea9d.chunk.js.map",
-  "index.html": "/joaofelipe/index.html",
-  "precache-manifest.45288c42d650bb7316c80bc894932bb9.js": "/joaofelipe/precache-manifest.45288c42d650bb7316c80bc894932bb9.js",
-  "service-worker.js": "/joaofelipe/service-worker.js",
-  "static/css/main.a35e5fc0.chunk.css.map": "/joaofelipe/static/css/main.a35e5fc0.chunk.css.map",
-  "static/media/logo.svg": "/joaofelipe/static/media/logo.5d5d9eef.svg"
+  "main.css": "/intransitorio.github.io/static/css/main.a35e5fc0.chunk.css",
+  "main.js": "/intransitorio.github.io/static/js/main.5a77aeae.chunk.js",
+  "main.js.map": "/intransitorio.github.io/static/js/main.5a77aeae.chunk.js.map",
+  "runtime~main.js": "/intransitorio.github.io/static/js/runtime~main.3ab14f4d.js",
+  "runtime~main.js.map": "/intransitorio.github.io/static/js/runtime~main.3ab14f4d.js.map",
+  "static/js/2.a539ea9d.chunk.js": "/intransitorio.github.io/static/js/2.a539ea9d.chunk.js",
+  "static/js/2.a539ea9d.chunk.js.map": "/intransitorio.github.io/static/js/2.a539ea9d.chunk.js.map",
+  "index.html": "/intransitorio.github.io/index.html",
+  "precache-manifest.60eed4cd7999e94f3e058281f2dc5dd7.js": "/intransitorio.github.io/precache-manifest.60eed4cd7999e94f3e058281f2dc5dd7.js",
+  "service-worker.js": "/intransitorio.github.io/service-worker.js",
+  "static/css/main.a35e5fc0.chunk.css.map": "/intransitorio.github.io/static/css/main.a35e5fc0.chunk.css.map",
+  "static/media/logo.svg": "/intransitorio.github.io/static/media/logo.5d5d9eef.svg"
 }
